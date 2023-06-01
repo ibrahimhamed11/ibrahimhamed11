@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Hamed.</h1>
 <h3 align="center"> Full-Stack Developer.</h3>
 
+<h2 align="center">I chose to be a <strong>Full-Stack Developer</strong> developer because it was as close as I could get to combining my love for art, with my passion for coding
+.</h2>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimhamed11&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimhamed11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moalaacs&theme=onedark" alt="ibrahimhamed11" /></a> </p>
